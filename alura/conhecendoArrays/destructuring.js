@@ -1,3 +1,7 @@
+/**
+ * Destructuring (ou "desestruturação") no JavaScript é uma forma rápida e limpa
+ * de tirar valores de objetos ou arrays e colocar diretamente em variáveis.
+ */
 const alunas = ["Laura", "Anny", "isa"];
 const size = [23, 25, 27];
 

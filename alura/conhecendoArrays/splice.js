@@ -17,4 +17,3 @@ const alunas = [
 alunas.splice(1,2,'Laura')
 
 console.log(alunas);
-
